@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<iframe src="https://emile-paffard-wray.profiled.app/">Profiled</iframe>
+<input type="text" id="name" name="name"/>
 <!--
 **EmilePW/EmilePW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
