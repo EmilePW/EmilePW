@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<input type="text" id="name" name="name"/>
+<img src="https://profiled-assets.s3.amazonaws.com/uploads/screencapture-emile-paffard-wray-profiled-app-2020-09-16-16_51_04.png" />
 <!--
 **EmilePW/EmilePW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
