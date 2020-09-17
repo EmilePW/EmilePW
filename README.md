@@ -11,4 +11,4 @@ Work Experience
 ---
 Software Engineer - Facebook (2018 - Present)
 
-<button>Reach out</button>
+<img src="https://img.stackshare.io/service/9375/fus2.png" />
