@@ -1,17 +1,12 @@
-<a href="https://emile-paffard-wray.profiled.app/">
-  <img src="https://profiled-assets.s3.amazonaws.com/uploads/screencapture-emile-paffard-wray-profiled-app-2020-09-16-16_51_04.png" />
-</a>
-<!--
-**EmilePW/EmilePW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+---
+- JavaScript
+- React
+- Node.js
+- HTML
+- CSS
+- Python
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Work Experience
+---
+Software Engineer - Facebook (2018 - Present)
